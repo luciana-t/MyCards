@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627062511511",
+    "firebase_url": "https://mycards-22abb.firebaseio.com",
+    "project_id": "mycards-22abb",
+    "storage_bucket": "mycards-22abb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627062511511:android:f6aaa3e09e5ae2bbecd6d2",
+        "android_client_info": {
+          "package_name": "com.luciana.mycards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627062511511-g9l7cquem5f0suhn8t2ughvbi15ok93l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luciana.mycards",
+            "certificate_hash": "0dd3e1bf16a94c05c03c86d71e17e957cbce7c16"
+          }
+        },
+        {
+          "client_id": "627062511511-g0vtki69pe7bmsp7dhd3u10gujsve258.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY97sscK5q_CO1r0U21BiSXpv5ntAherE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627062511511-g0vtki69pe7bmsp7dhd3u10gujsve258.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
